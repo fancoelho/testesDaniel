@@ -1,4 +1,4 @@
-package com.tratamentoTexto.textService.application;
+package com.tratamentoTexto.textService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
