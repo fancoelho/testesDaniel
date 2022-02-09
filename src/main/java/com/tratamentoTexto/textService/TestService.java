@@ -15,7 +15,7 @@ public class TestService {
 		String rev = "";
 		for(int i= word1.length()-1;i>=0;i--) {
 			rev = rev + word1.charAt(i);
-		}
+		} //este for loop tive que ir ver como se fazia, porque não estava a conseguir 
 		
 		ReverseString wordReverse = new ReverseString(rev);
 		
